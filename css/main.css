@@ -136,7 +136,6 @@ h2 {
   color: #16728f
 }
 
-
 .fixed-menu {
   background-color: #1B7B98;
   position: fixed;
@@ -584,7 +583,7 @@ h2 {
 
 #sponsor {
   background-color: #1881a2;
-  background-image: url("../images/sponsor-bg.jpg");
+  background-image: url("../images/event-bg.jpg");
   background-position:50% 0;
   background-size: cover;
   background-repeat:no-repeat;
