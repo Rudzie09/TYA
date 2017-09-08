@@ -106,7 +106,7 @@ h2 {
   height: 90px;
   margin-bottom: 20px;
   position: relative;
-  width: 297px;
+  width: 150px;
 }
 
 .navbar-brand img {
@@ -194,10 +194,10 @@ h2 {
   opacity: 0.8;
   padding:10px 60px 35px;
   right: inherit;
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: #fff;
   text-align: left;
-   width:697px;height:250px;
+
 }
 
 
